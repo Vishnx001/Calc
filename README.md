@@ -37,7 +37,7 @@ calc.html
     <link rel="stylesheet" type="text/css" href="calc.css">
 </head>
 <body>
-<h1>ABISHAI 212223240002</h1>
+<h1>nafeez kamal S</h1>
 <div class="calculator">
     <input type="text" id="display" readonly>
     <input type="button" value="7" onclick="addToDisplay('7')">
